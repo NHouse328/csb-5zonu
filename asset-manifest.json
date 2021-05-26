@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nhouse328.github.io/csb-5zonu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nhouse328.github.io/csb-5zonu/static/js/main.f0c5d771.chunk.js",
+    "main.js.map": "https://nhouse328.github.io/csb-5zonu/static/js/main.f0c5d771.chunk.js.map",
+    "runtime-main.js": "https://nhouse328.github.io/csb-5zonu/static/js/runtime-main.51f1a96c.js",
+    "runtime-main.js.map": "https://nhouse328.github.io/csb-5zonu/static/js/runtime-main.51f1a96c.js.map",
+    "static/js/2.ff6bf8aa.chunk.js": "https://nhouse328.github.io/csb-5zonu/static/js/2.ff6bf8aa.chunk.js",
+    "static/js/2.ff6bf8aa.chunk.js.map": "https://nhouse328.github.io/csb-5zonu/static/js/2.ff6bf8aa.chunk.js.map",
+    "index.html": "https://nhouse328.github.io/csb-5zonu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nhouse328.github.io/csb-5zonu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ff6bf8aa.chunk.js.LICENSE.txt": "https://nhouse328.github.io/csb-5zonu/static/js/2.ff6bf8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f1a96c.js",
+    "static/js/2.ff6bf8aa.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f0c5d771.chunk.js"
+  ]
+}
